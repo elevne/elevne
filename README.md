@@ -18,6 +18,3 @@
 ### About me
 - 🎓 Sungkyunkwan University , Business Administration & Convergence Software Engineerging (2018~ )
 - 💻 WeDataLab, Backend Develop Intern (2022.08~2023.08)
-
-  <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwi5525)](https://solved.ac/cwi5525/)
